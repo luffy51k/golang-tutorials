@@ -3,7 +3,7 @@
 
 ### 11-Con trỏ
 
-01- Các cách khởi tạo con trỏ ?
+*01- Các cách khởi tạo con trỏ ?*
 
 ```go
 // cách 1: khai báo tường minh
@@ -12,7 +12,7 @@ var p *int
 ptr := new(int)
 ```
 
-02- pointer tới ...?
+**02- pointer tới ...?**
 
 pointer trỏ về biến:
 
